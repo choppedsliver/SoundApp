@@ -1,0 +1,35 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: black;
+}
+
+
+canvas {
+display: block;
+}
+
+h1 {
+  transform: rotate(-90deg);
+/*   margin: 0; */
+   position: fixed;
+  top: -5px;
+  left: -70px;
+  color:black;
+  font-size: 100px;
+font-family: "macchia", sans-serif;
+font-weight: 400;
+font-style: normal;
+  
+}
+
+h3 {
+  color: black;
+/*   padding-left: 80px; */
+  position: fixed;
+  top: 5px;
+  left: 85px;
+  font-family: "larken", sans-serif;
+font-weight: 800;
+font-style: normal;
+}
